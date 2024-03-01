@@ -1,4 +1,4 @@
-import 'package:dice_app/home/dice_page.dart';
+import 'package:dice_app/home/home_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
